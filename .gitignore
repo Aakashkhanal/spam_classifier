@@ -1,1 +1,7 @@
+#files to ignore
+sms-spam-collection-dataset.zip
+spam.csv
 
+
+# ignoring the virtual environment
+myenv
